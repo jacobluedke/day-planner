@@ -32,6 +32,7 @@
 
   Link to GitHub: [https://github.com/jacobluedke](https://github.com/jacobluedke)
 
+  Link to deployed application: [https://jacobluedke.github.io/day-planner/](https://jacobluedke.github.io/day-planner/)
   ## Screenshots
   Screenshot of the application
   ![Screenshot of the application](/Images/day-planner-ss.png)
